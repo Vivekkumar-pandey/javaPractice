@@ -12,6 +12,7 @@ public class Main {
         Abc ab3=new Abc(ab1);
         System.out.println(ab3.name+"  "+ab3.id);
 
+
     }
 }
 
