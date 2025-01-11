@@ -6,7 +6,7 @@ public class EveOdd {
         if(num%2==0){
             System.out.println("it is the even number");
         }else{
-            System.out.println("it is odd number");
+            System.out.println("it is just only odd number");
         }
     }
 }
