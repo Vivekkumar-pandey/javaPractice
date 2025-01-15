@@ -23,7 +23,7 @@ public class factorialByDiffrentApproch {
             //else
             //return 1;
 
-            // Using Ternary operator
+            // Using Ternary operator *****************
 
             return (x>0?(x*getFactorial(x-1)):1);
 
