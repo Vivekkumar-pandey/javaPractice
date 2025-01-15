@@ -26,5 +26,6 @@ public class factorialByDiffrentApproch {
             // Using Ternary operator
 
             return (x>0?(x*getFactorial(x-1)):1);
+
         }
     }
